@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @emmaz100
-- 👀 I’m interested in ... cyber secuirity
-- 🌱 I’m currently learning ... cyber security
-- 💞️ I’m looking to collaborate on ... cyber security and computer forensics
+- 👀 I’m a graphic and uiux designer 
+- 💞️ I’m looking forward to collaborate with designer 
 - 📫 How to reach me ... olaoluwa622@gmail.com
 
 <!---
